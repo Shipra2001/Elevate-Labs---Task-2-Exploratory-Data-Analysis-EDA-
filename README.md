@@ -1,5 +1,4 @@
-# Elevate-Labs---Task-2-Exploratory-Data-Analysis-EDA-
-# Task 2: Exploratory Data Analysis (EDA) - Titanic Dataset
+# Elevate-Labs-Task 2: Exploratory Data Analysis (EDA) - Titanic Dataset
 
 ## Objective
 The goal of this task was to perform Exploratory Data Analysis (EDA) on a dataset using statistics and visualizations to understand the data, identify trends, detect anomalies, and derive basic insights.
